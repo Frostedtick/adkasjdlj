@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(58, 58, 58);
+    width: 500px;
+}
+p{
+    color: white;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.lw{
+    font-size: 30px;
+}
+.pd{
+    font-size: 20px;
+}
+li{
+    list-style: none;
+}
+.dz{
+    font-size: 19px;
+}
